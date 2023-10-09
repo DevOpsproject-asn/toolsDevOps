@@ -16,3 +16,5 @@ java -version
 yum install java-11-openjdk-devel -y
 javac -version 
 
+Java 17 
+sudo yum install java-17-openjdk-devel -y
